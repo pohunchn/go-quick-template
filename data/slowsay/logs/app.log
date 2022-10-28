@@ -1,0 +1,6 @@
+{"level":"debug","msg":"use MySQL as db","time":"2022-10-28T10:13:14+08:00"}
+{"level":"info","msg":"/Volumes/Data/htdocs/phcs/go-quick-template/internal/conf/db.go:64\n[error] failed to initialize database, got error Error 1045: Access denied for user 'root'@'localhost' (using password: YES)","time":"2022-10-28T10:13:14+08:00"}
+{"level":"fatal","msg":"new gorm db failed: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)","time":"2022-10-28T10:13:14+08:00"}
+{"level":"debug","msg":"use MySQL as db","time":"2022-10-28T10:21:01+08:00"}
+{"level":"info","msg":"/Volumes/Data/htdocs/phcs/go-quick-template/internal/conf/db.go:64\n[error] failed to initialize database, got error Error 1045: Access denied for user 'root'@'localhost' (using password: YES)","time":"2022-10-28T10:21:01+08:00"}
+{"level":"fatal","msg":"new gorm db failed: Error 1045: Access denied for user 'root'@'localhost' (using password: YES)","time":"2022-10-28T10:21:01+08:00"}

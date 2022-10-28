@@ -1,0 +1,1 @@
+抽象自 [rocboss/paopao-ce](https://github.com/rocboss/paopao-ce)
